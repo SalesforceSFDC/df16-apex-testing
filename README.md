@@ -4,6 +4,8 @@ Presented by [Laura Meerkatz](https://github.com/lmeerkatz) and [Adam Lincoln](h
 
 This readme provides resources related to that session. This repository should also contain everything you need to deploy this code to a dev org.
 
+* [YouTube Video](https://www.youtube.com/watch?v=FBKlTPcb614)
+
 ## Why we write tests
 Short answer? Because we like to sleep at night. 
 
